@@ -1,0 +1,19 @@
+D:\Kodingan\Project Ka Vica Modul 3\Project Ka Vica Modul 3\bin\Debug\Project Ka Vica Modul 3.exe.config
+D:\Kodingan\Project Ka Vica Modul 3\Project Ka Vica Modul 3\obj\Debug\Project_Ka_Vica_Modul_3.Form1.resources
+D:\Kodingan\Project Ka Vica Modul 3\Project Ka Vica Modul 3\obj\Debug\Project_Ka_Vica_Modul_3.Resources.resources
+D:\Kodingan\Project Ka Vica Modul 3\Project Ka Vica Modul 3\obj\Debug\Project Ka Vica Modul 3.vbproj.GenerateResource.Cache
+D:\Kodingan\Project Ka Vica Modul 3\Project Ka Vica Modul 3\bin\Debug\Project Ka Vica Modul 3.exe
+D:\Kodingan\Project Ka Vica Modul 3\Project Ka Vica Modul 3\bin\Debug\Project Ka Vica Modul 3.pdb
+D:\Kodingan\Project Ka Vica Modul 3\Project Ka Vica Modul 3\bin\Debug\Project Ka Vica Modul 3.xml
+D:\Kodingan\Project Ka Vica Modul 3\Project Ka Vica Modul 3\obj\Debug\Project Ka Vica Modul 3.exe
+D:\Kodingan\Project Ka Vica Modul 3\Project Ka Vica Modul 3\obj\Debug\Project Ka Vica Modul 3.xml
+D:\Kodingan\Project Ka Vica Modul 3\Project Ka Vica Modul 3\obj\Debug\Project Ka Vica Modul 3.pdb
+D:\Kodingan\Project Ka Vica Modul 3\Project Ka Vica Modul 3\obj\Debug\Project_Ka_Vica_Modul_3.Form2.resources
+D:\Kodingan\Project Ka Vica Modul 3\Project Ka Vica Modul 3\obj\Debug\Project_Ka_Vica_Modul_3.Form3.resources
+D:\Kodingan\Project Ka Vica Modul 3\Project Ka Vica Modul 3\obj\Debug\Project_Ka_Vica_Modul_3.Form4.resources
+D:\Kodingan\Project Ka Vica Modul 3\Project Ka Vica Modul 3\obj\Debug\Project_Ka_Vica_Modul_3.Form5.resources
+D:\Kodingan\Project Ka Vica Modul 3\Project Ka Vica Modul 3\obj\Debug\Project_Ka_Vica_Modul_3.Form6.resources
+D:\Kodingan\Project Ka Vica Modul 3\Project Ka Vica Modul 3\obj\Debug\Project_Ka_Vica_Modul_3.Form7.resources
+D:\Kodingan\Project Ka Vica Modul 3\Project Ka Vica Modul 3\obj\Debug\Project_Ka_Vica_Modul_3.Form8.resources
+D:\Kodingan\Project Ka Vica Modul 3\Project Ka Vica Modul 3\obj\Debug\Project_Ka_Vica_Modul_3.Form9.resources
+D:\Kodingan\Project Ka Vica Modul 3\Project Ka Vica Modul 3\obj\Debug\Project_Ka_Vica_Modul_3.Form10.resources
